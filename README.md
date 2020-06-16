@@ -1,4 +1,4 @@
-# anonymous app [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rea1103/anonymousapp/master?filepath=Python%20%2B%20SQL.ipynb)
+# anonymous app (beta) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rea1103/anonymousapp/master?filepath=Python%20%2B%20SQL.ipynb)
 
 Libraries used:
 - mysql.connector
